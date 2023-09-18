@@ -1,0 +1,12 @@
+.navigation-bar {
+    display: flex;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+h3 {
+    border: 1px solid blue;
+}
