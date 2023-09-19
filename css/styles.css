@@ -1,10 +1,15 @@
+body {
+    background-color: darkgrey;
+}
 .navigation-bar {
     display: flex;
+    border: 1px solid red;
 }
 ul {
     display: flex;
     list-style: none;
     gap: 1rem;
+    border: 1px solid black;
 }
 
 h3 {
